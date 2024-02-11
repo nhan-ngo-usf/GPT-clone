@@ -38,7 +38,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app). Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-```
+
+Here is the Demo video:
+
+https://github.com/nhan-ngo-usf/GPT-clone/assets/65501976/f816e76e-3410-43fe-8e4c-e7ab5490276d
 
 
-```
+
+
